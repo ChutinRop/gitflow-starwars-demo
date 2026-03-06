@@ -42,4 +42,4 @@ git log --oneline --graph --all
 - Diseño responsivo con temática Dark/Star Wars.
 
 ---
-*May the Force (and a clean history) be with you.*
+*Que la Fuerza (gitflow) te acompañe.*
